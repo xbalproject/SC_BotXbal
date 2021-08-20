@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/SC_BotXbal
+> git clone https://github.com/xbalproject/SC_BotXbal
 > cd SC_BotXbal
 > bash install.sh
 > node index.js
