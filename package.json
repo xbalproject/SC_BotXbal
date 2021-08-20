@@ -1,7 +1,7 @@
 {
-  "name": "BetaBOT",
+  "name": "XalBOT",
   "version": "1.0.0",
-  "description": "bot wa yang mudah untuk digunakan",
+  "description": "bot wa kekinian",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/xbalproject/SC_BotXbal"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Nothing Person",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/xbalproject/SC_BotXbal/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/xbalproject/SC_BotXbal#readme"
 }
