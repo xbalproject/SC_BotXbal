@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'XBAL BOT☄'; 
 const instagram = 'https://instagram.com/qobal_mld'; 
-const telegram = 'https://t.me/reuzzz'; 
+const telegram = 'not have account'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
 //const grupch1 = 'belum ada grup'; 
